@@ -1,6 +1,6 @@
 package Date::Utils::Saka;
 
-$Date::Utils::Saka::VERSION = '0.01';
+$Date::Utils::Saka::VERSION = '0.02';
 
 =head1 NAME
 
@@ -8,7 +8,7 @@ Date::Utils::Saka - Saka date specific routines as Moo Role.
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 

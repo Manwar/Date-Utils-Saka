@@ -1,4 +1,7 @@
 Revision history for Date::Utils::Saka
 
+0.02  Fri May 15 10:31:00 2015
+      - Added unit test script t/01-date-utils-saka.t file.
+
 0.01  Thu Apr 23 23:20:00 2015
       - First version, released.
